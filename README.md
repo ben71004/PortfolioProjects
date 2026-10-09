@@ -4,7 +4,7 @@
 This project explores global COVID-19 case, death, and vaccination data using SQL Server. It uses T-SQL to clean and query the data, calculate death rates and vaccination progress, and prepare a view for later visualization.
 
 ## Dataset
-The data comes from the Our World in Data COVID-19 dataset, split into two tables and imported from Excel into a database called PortfolioProject:
+The data comes from the [Our World in Data COVID-19 dataset](https://github.com/owid/covid-19-data), split into two tables and imported from Excel into a database called PortfolioProject:
 
 * Covid_Deaths: cases, deaths, and population by country and date
 * Covid_Vaccinations: vaccination figures by country and date
